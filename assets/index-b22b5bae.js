@@ -56,8 +56,6 @@ Error generating stack: `+o.message+`
 
 			color: white;
 			font-size: 1.5rem;
-			font-weight: bold;
-
 			&:hover {
 				border-color: ${e.primary};
 			}
