@@ -10,7 +10,8 @@ const style = {
 
 			& > img {
 				cursor: pointer;
-				height: 9.75rem;
+				height: 8.75rem;
+				padding: 1rem;
 			}
 
 			background-color: ${theme.primary};
@@ -20,7 +21,6 @@ const style = {
 			display: flex;
 			justify-content: center;
 			align-items: center;
-			font-weight: bold;
 			padding: 1rem;
 			background-color: ${theme.secondary};
 		`,
