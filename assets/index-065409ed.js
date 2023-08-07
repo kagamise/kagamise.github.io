@@ -79,7 +79,8 @@ Error generating stack: `+o.message+`
 
 			& > img {
 				cursor: pointer;
-				height: 9.75rem;
+				height: 8.75rem;
+				padding: 1rem;
 			}
 
 			background-color: ${e.primary};
@@ -87,7 +88,6 @@ Error generating stack: `+o.message+`
 			display: flex;
 			justify-content: center;
 			align-items: center;
-			font-weight: bold;
 			padding: 1rem;
 			background-color: ${e.secondary};
 		`},ch="/assets/figuya_logo-912306cd.svg",fh=()=>qt("div",{css:jo.navBar,children:[pe("div",{css:jo.top,children:pe("img",{color:"white",height:"80px",alt:"",src:ch})}),qt("div",{css:jo.bottom,children:[" ","Sklep od kolekcjonerów dla kolekcjonerów"]})]}),dh={footer:()=>e=>dt`
