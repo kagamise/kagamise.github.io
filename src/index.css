@@ -1,0 +1,15 @@
+@import "reset-css";
+
+@font-face {
+	font-family: "Eina01";
+	src: url("../Eina01-SemiBold.ttf") format("truetype");
+}
+
+html {
+	margin: 0 0 100px;
+}
+
+body {
+	font-family: "Eina01";
+	color: white;
+}
