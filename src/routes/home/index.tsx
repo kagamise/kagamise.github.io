@@ -20,6 +20,10 @@ const Home = () => {
 				text="Facebook"
 				link="https://www.facebook.com/profile.php?id=100092703542534"
 			/>
+			<Button
+				text="Discord"
+				link="https://discord.gg/7dUGbxvsSv"
+			/>
 		</div>
 	);
 };
